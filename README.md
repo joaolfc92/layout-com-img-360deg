@@ -3,11 +3,11 @@ layout simples em que existe uma aplicação de uma imagem que rotaciona em 360 
 
 processo e bem simples
 
-1- acessar https://www.momento360.com 
-2- fazer o cadastro gratis
-3- https://pixexid.com/tag/360%20Panorama aqui está o link com diversar imagens - faça o downloa
-4- logado na conta acesse a aba "get started upload your 360s"
-5- espere o termino do upload da imagem - e copie o codigo gerado e cole no seu html
+1- acessar https://www.momento360.com <br>
+2- fazer o cadastro gratis <br>
+3- https://pixexid.com/tag/360%20Panorama aqui está o link com diversar imagens - faça o download <br>
+4- logado na conta acesse a aba "get started upload your 360s" <br>
+5- espere o termino do upload da imagem - e copie o codigo gerado e cole no seu html <br><br><br>
 
 
 
